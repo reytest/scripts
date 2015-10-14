@@ -95,7 +95,7 @@ for senha in dicionario:
                     print '[+] Não deu certo ',senha
                 
                 	
-             
+             testeeee
             
                 
    
